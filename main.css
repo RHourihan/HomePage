@@ -1,0 +1,18 @@
+.header{
+  background-image: url(cloudbackground.png);
+	background-repeat: repeat-x;
+	text-align: center;
+  margin-top: 0px;
+  color: red;
+  font-size: 60px;
+}
+
+.main{
+  font: arial;
+  font-size: 20px;
+  color: steelblue;
+}
+
+.top{
+  text-decoration: underline;
+}
